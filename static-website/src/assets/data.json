@@ -1,0 +1,29 @@
+{
+  "monthly_roster": [
+    {
+      "name": "John Doe",
+      "role": "Developer",
+      "availability": "Week 1"
+    },
+    {
+      "name": "Jane Smith",
+      "role": "Designer",
+      "availability": "Week 2"
+    },
+    {
+      "name": "Alice Johnson",
+      "role": "Project Manager",
+      "availability": "Week 3"
+    },
+    {
+      "name": "Bob Brown",
+      "role": "Tester",
+      "availability": "Week 4"
+    }
+  ],
+  "update": {
+    "date": "2023-10-01",
+    "file": "sample_roster.xlsx",
+    "description": "Monthly roster updated with new entries."
+  }
+}
